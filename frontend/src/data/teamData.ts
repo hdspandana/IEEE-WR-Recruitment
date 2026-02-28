@@ -285,7 +285,7 @@ export const teamData: TeamMember[] = [
     chapter: "Web Resources",
     position: "Web Dev Lead",
     description: "Manages the RITB digital presence, recruits developers, and leads web-based technical events.",
-    imageUrl: "/public/images/myphoto.jpg",
+    imageUrl: "/images/spandana.jpg",
   },
   {
     id: 32,
