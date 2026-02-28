@@ -70,8 +70,8 @@ IEEE-WR-Recruitment/
 - Fallback image if photo fails to load
 
 ### 📸 Screenshot
-
-![Team Section](./frontend/public/images/frontend-screenshot.png)
+![Team Section](frontend/public/images/image1.png)
+![Team Section 2](frontend/public/images/image2.png)
 
 ### ▶️ How to Run
 ```bash
@@ -131,15 +131,14 @@ GET /members?year=2
 - `year` must be between 1 and 4
 
 ### 📸 API Tests (Thunder Client Screenshots)
-
 **GET /members** — Returns all members
-![GET Members](./frontend/public/images/get-members.png)
+![GET Members](frontend/public/images/image3.png)
 
 **POST /members** — Adds new member
-![POST Members](./frontend/public/images/post-members.png)
+![POST Members](frontend/public/images/image4.png)
 
 **DELETE /members/:usn** — Removes a member
-![DELETE Members](./frontend/public/images/delete-members.png)
+![DELETE Members](frontend/public/images/image5.png)
 
 ### ▶️ How to Run
 ```bash
