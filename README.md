@@ -79,7 +79,8 @@ cd frontend
 npm install
 npm run dev
 ```
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+🌐 **Live Demo:** [Click here](https://ieee-wr-recruitment-nbg6utdrr-spandanas-projects-078e6762.vercel.app/)
+
 
 ---
 
